@@ -2,8 +2,6 @@
 
 Detect human emotions (Happy, Sad, Tired, Neutral) from facial expressions using OpenCV and AI.
 
-## 📝 Description (15 words)
-AI-powered emotion recognition from facial expressions using OpenCV. Detects happy, sad, tired, and neutral emotions.
 
 ## 🚀 Features
 - Real-time emotion detection
